@@ -24,4 +24,4 @@
 ![image](https://user-images.githubusercontent.com/122009563/226507638-45243eef-fab1-41fb-a037-6b243fd6175f.png)
 ![image](https://user-images.githubusercontent.com/122009563/226507676-afaae7a9-fada-414a-88bb-b2f547d331c0.png)
 # Java Code
-![image](https://user-images.githubusercontent.com/122009563/226507734-0cd84f6f-ee51-4408-8d39-a355e96528b8.png)
+![image](https://user-images.githubusercontent.com/122009563/226522746-7e9fd663-d78c-474a-9e4b-262e883c4b2e.png)
