@@ -28,5 +28,5 @@
 ![image](https://user-images.githubusercontent.com/122009563/226522746-7e9fd663-d78c-474a-9e4b-262e883c4b2e.png)
 
 # 큐(Queue) - FIFO(First In First Out)
-큐(queue)는 한쪽 방향으로 데이터가 삽입되고 반대 방향으로 데이터가 삭제되고
-먼저 들어온 데이터가 먼저 나가는 선입 선출(First In First Out) 구조이다.
+- 큐(queue)는 한쪽 방향으로 데이터가 삽입되고 반대 방향으로 데이터가 삭제되고
+- 먼저 들어온 데이터가 먼저 나가는 선입 선출(First In First Out) 구조이다.
