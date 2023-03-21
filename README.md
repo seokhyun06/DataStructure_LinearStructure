@@ -19,7 +19,8 @@
 ![image](https://user-images.githubusercontent.com/122009563/226501000-f3c323b9-7df3-463b-9e3f-050b4b1cfbaa.png)
 
 # 스택(Stack) – LIFO(Last In First Out)
-스택은 리스트의 한쪽 끝으로만 자료의 삽입 및 삭제가 이루어지는 구조로 먼저 삽입된 자료가 맨 나중에 삭제가 되는 후 선출로 Last In First Out 방식이다. 
+- 스택은 리스트의 한쪽 끝으로만 자료의 삽입 및 삭제가 이루어지는 구조로
+- 먼저 삽입된 자료가 맨 나중에 삭제가 되는 후 선출로 Last In First Out 방식이다. 
 ![image](https://user-images.githubusercontent.com/122009563/226507638-45243eef-fab1-41fb-a037-6b243fd6175f.png)
 ![image](https://user-images.githubusercontent.com/122009563/226507676-afaae7a9-fada-414a-88bb-b2f547d331c0.png)
 # Java Code
