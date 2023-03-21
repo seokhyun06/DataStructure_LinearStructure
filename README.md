@@ -12,3 +12,5 @@
 #  노드(node)
 - 자료와 포인터를 갖고 있는 것을 노드(node)라고 한다.
 ![image](https://user-images.githubusercontent.com/122009563/226500084-c818cef5-a999-482d-9ea9-4ca3ea98bbdb.png)
+# Java Cord
+![image](https://user-images.githubusercontent.com/122009563/226501000-f3c323b9-7df3-463b-9e3f-050b4b1cfbaa.png)
