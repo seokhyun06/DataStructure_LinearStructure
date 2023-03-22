@@ -41,3 +41,6 @@
 리어(R, Rear)
   - 가장 마지막에 삽입된 자료가 위치한 기억 장소를 가리키는 포인터이다.
   - 삽입 작업을 할 때 사용
+
+# Java Code
+![image](https://user-images.githubusercontent.com/122009563/226811452-ae1cf413-97e3-49c5-805d-103ae81b8ae4.png)
