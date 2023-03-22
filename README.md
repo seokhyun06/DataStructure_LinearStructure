@@ -34,7 +34,7 @@
 - 정해진 곳(top)에서만 자료의 삽입과 삭제가 이루어지는 스택과는 다르게 큐는 Rear부분에서 자료의 삽입이, Front부분에서 자료의 삭제가 이루어집니다. 
 ![image](https://user-images.githubusercontent.com/122009563/226808989-ab1e56cd-bc97-4c7e-b756-c3a541c0b082.png)
 
--프런트(F, Front)
+프런트(F, Front)
   - 가장 먼저 삽입된 자료의 기억 공간을 가리키는 포인터이다.
   - 삭제 작업을 할 때 사용
 리어(R, Rear)
